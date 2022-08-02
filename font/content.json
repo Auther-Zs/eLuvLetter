@@ -1,10 +1,11 @@
 {
-    "to": "WDF",
-    "from": "Mr.White",
-    "recipient": "标题",
-    "sender": "Mr.White",
-    "title": "信封Titler",
+    "to": "王渡飞",
+    "from": "翟双双",
+    "recipient": "致我最爱的小公主",
+    "sender": "zss",
+    "title": "我最心爱的小公主",
     "stamp": "./img/stamp.png",
     "bgm": "./bgm/bgm.mp3",
-    "text": "hello，这是一个测试的。。^200<br>测试成功!"
+    "text": "亲爱的，今天是七夕，中国的情人节，传说中牛郎与织女相会的日子，很抱歉不能和你一起过节日，但是这次我有准备礼物喔。
+今天也是我们在一起的xxxx天，不知不觉间我们已经一起携手走过了5个年头。^200<br>测试成功!"
 }
